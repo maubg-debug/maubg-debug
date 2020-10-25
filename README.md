@@ -50,8 +50,9 @@ Me gusta ver nuevos idiomas como `sass` o `go`. Pero no me gusta mucho hacer jue
 
 ```text
 
-C, C++, C#                   █████████░░░░░░░░░░░░░░░░
+
 HTML, PHP, React, Electron   ████████████████░░░░░░░░░   
+C, C++, C#                   █████████░░░░░░░░░░░░░░░░
 Markdown                     ██░░░░░░░░░░░░░░░░░░░░░░░   
 Otros                        ███████████░░░░░░░░░░░░░░   
 Python                       ███████████████████████░░   
