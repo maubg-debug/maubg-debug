@@ -79,4 +79,4 @@ if __name__ == "__main__":
 
 Mira la web de **Maubot** 🌎:
 
-  http://maubot.mooo.com
+* http://maubot.mooo.com
