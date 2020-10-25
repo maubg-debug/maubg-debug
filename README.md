@@ -8,18 +8,13 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 [![Mail Badge](https://img.shields.io/badge/-Maubg-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGq-b5ap4sOvbFvOV5W6fkQ?view_as=subscriber) 
 [![Mail Badge](https://img.shields.io/badge/-@compilando123-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/compilando123/?hl=es) [![Mail Badge](https://img.shields.io/badge/-maubg2007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:maubg2007@gmail.com@gmail.com)
 
-<!-- TODO: Add last video link -->
 
 - 🔭 Actualmente estoy trabajando en **Maubg** (Un [robot](https://github.com/maubg-debug/maubot) de discord profesional).
 - :computer: Línea de código más utilizada `git commit -m" Initial Commit "`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: isledmpenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- 📫 Como contactar conmigo: maubg2007@gmail.com.
+- ⚡ Dato curioso: juego y toco la bateria menudo.
 
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
+#### Mis lenguajes mas conocidos
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
