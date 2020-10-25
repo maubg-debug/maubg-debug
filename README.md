@@ -64,6 +64,7 @@ Python                       █████████████████
 </details>
 
 <h3>
+
 ```python
 
 class Maubg():
@@ -80,5 +81,7 @@ def main():
 
 if __name__ == "__main__":
   main()
+
+  
 ```
 </h3>
