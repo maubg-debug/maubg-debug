@@ -36,31 +36,28 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 
 <details>
 <summary>
-  More stuff about me
+  Mas cosas sobre mi
 </summary>
 
 <br >
 
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+#### ¿Què es lo que hago?
 
-#### What is CoderOne?
+Lo que yo hago es `programar`, pero me gusta programar con python haciendo robots y tambien haciendo applicaciones con `reactjs` o con `html`
+Me gusta ver nuevos idiomas como `sass` o `go`. Pero no me gusta mucho hacer juegos
 
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+#### Stats de codigo
 
-#### Coding Stats
-
-<!--START_SECTION:waka-->
 ```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+TypeScript                   ██████████░░░░░░░░░░░░░░░
+HTML, PHP, React, Electron   ████████████████░░░░░░░░░   
+Markdown                     ██░░░░░░░░░░░░░░░░░░░░░░░   
+Otros                        ███████████░░░░░░░░░░░░░░   
+Python                       ███████████████████████░░   
 ```
-<!--END_SECTION:waka-->
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Stats de github](https://github-readme-stats.vercel.app/api?username=maubg-debug&count_private=true&theme=light&hide=contribs,prs)
 
 </details>
