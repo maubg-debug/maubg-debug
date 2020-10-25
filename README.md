@@ -48,8 +48,7 @@ Me gusta ver nuevos idiomas como `sass` o `go`. Pero no me gusta mucho hacer jue
 
 #### Stats de codigo
 
-```text
-
+```
 
 HTML, PHP, React, Electron   ████████████████░░░░░░░░░   
 C, C++, C#                   █████████░░░░░░░░░░░░░░░░
