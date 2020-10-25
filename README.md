@@ -72,7 +72,7 @@ class Maubg():
     self.github = g
 
   def maubg(self, nombre):
-    print("Hola mundo, soy Maubg")
+    print(f"Hola mundo, soy {self.nombre}")
 
 def main():
   m = Maubg()
