@@ -2,12 +2,24 @@
 
 Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alguien que trabajara en algo importante como Google
 
-:mailbox: ¡Contactame!
-
-[![Twitter Badge](https://img.shields.io/badge/-@MauBG6-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/MauBG6)](https://twitter.com/MauBG6)
-[![Mail Badge](https://img.shields.io/badge/-Maubg-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGq-b5ap4sOvbFvOV5W6fkQ?view_as=subscriber) 
-[![Mail Badge](https://img.shields.io/badge/-@compilando123-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/compilando123/?hl=es) [![Mail Badge](https://img.shields.io/badge/-maubg2007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:maubg2007@gmail.com@gmail.com)
-
+<p align="center">
+  <br/>
+  <a href="https://twitter.com/MauBG6">
+    <img alt="maubg | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  </a>
+  <a href="#">
+    <img alt="maubg LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  </a>
+  <a href="https://www.facebook.com/mauro.bg.505">
+    <img alt="maubg Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  </a>
+  <a href="https://www.instagram.com/compilando123/?hl=es">
+    <img alt="maubg Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  </a>
+  <a href="https://open.spotify.com/user/2cwqnoeutjq78mqd3omyln4kg">
+    <img alt="maubg Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+  </a>
+</p>
 
 - 🔭 Actualmente estoy trabajando en **Maubg** (Un [robot](https://github.com/maubg-debug/maubot) de discord profesional).
 - :computer: Línea de código más utilizada `git commit -m "Initial Commit "`
