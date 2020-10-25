@@ -4,7 +4,7 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 
 :mailbox: ¡Contactame!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/MauBG6) 
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis)
 [![Mail Badge](https://img.shields.io/badge/-Maubg-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGq-b5ap4sOvbFvOV5W6fkQ?view_as=subscriber) 
 [![Mail Badge](https://img.shields.io/badge/-@compilando123-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/compilando123/?hl=es) [![Mail Badge](https://img.shields.io/badge/-maubg2007-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:maubg2007@gmail.com@gmail.com)
 
