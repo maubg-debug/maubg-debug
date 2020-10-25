@@ -48,7 +48,7 @@ Me gusta ver nuevos idiomas como `sass` o `go`. Pero no me gusta mucho hacer jue
 
 #### Stats de codigo
 
-```
+```text
 
 HTML, PHP, React, Electron   ████████████████░░░░░░░░░   
 C, C++, C#                   █████████░░░░░░░░░░░░░░░░
@@ -63,6 +63,7 @@ Python                       █████████████████
 
 </details>
 
+<h3>
 ```python
 
 class Maubg():
@@ -80,3 +81,4 @@ def main():
 if __name__ == "__main__":
   main()
 ```
+</h3>
