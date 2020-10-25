@@ -12,7 +12,7 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 - 🔭 Actualmente estoy trabajando en **Maubg** (Un [robot](https://github.com/maubg-debug/maubot) de discord profesional).
 - :computer: Línea de código más utilizada `git commit -m" Initial Commit "`
 - 📫 Como contactar conmigo: maubg2007@gmail.com.
-- ⚡ Dato curioso: juego y toco la bateria menudo.
+- ⚡ Dato curioso: juego y toco la bateria amenudo.
 
 #### Mis lenguajes mas conocidos
 
@@ -21,6 +21,7 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![HTML Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+awdawd
 
 ### Tutorials
 
