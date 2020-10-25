@@ -35,6 +35,7 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 
 ![Visitores](https://visitor-badge.glitch.me/badge?page_id=maubg-debug.maubg-debug)
 
+> Una vez un hombre muy savio dijo:
 > Tienes mas miedo de lo que no ves de lo que ves - Maubg
 
 <details>
