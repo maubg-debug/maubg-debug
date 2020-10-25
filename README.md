@@ -21,6 +21,9 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![Html Badge](https://img.shields.io/badge/-Html-c0392b?style=for-the-badge&labelColor=black&logo=html&logoColor=c0392b)](#)
+[![Scss Badge](https://img.shields.io/badge/-Scss-8e44ad?style=for-the-badge&labelColor=black&logo=html&logoColor=8e44ad)](#)
+[![Go Badge](https://img.shields.io/badge/-Go-2980b9?style=for-the-badge&labelColor=black&logo=html&logoColor=2980b9)](#)
+
 
 ### Tutorials
 
