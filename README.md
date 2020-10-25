@@ -63,3 +63,21 @@ Python                       █████████████████
 ![Stats de github](https://github-readme-stats.vercel.app/api?username=maubg-debug&count_private=true&theme=light&hide=contribs,prs)
 
 </details>
+
+```python
+
+class Maubg():
+  def __init__(self, nombre, g):
+    self.nombre = nombre
+    self.github = g
+
+  def maubg(self, nombre):
+    print("Hola mundo, soy Maubg")
+
+def main():
+  m = Maubg()
+  m.maubg("Maubg")
+
+if __name__ == "__main__":
+  main()
+```
