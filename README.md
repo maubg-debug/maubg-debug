@@ -24,7 +24,7 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 [![Scss Badge](https://img.shields.io/badge/-Scss-8e44ad?style=for-the-badge&labelColor=black&logo=sass&logoColor=8e44ad)](#)
 [![Go Badge](https://img.shields.io/badge/-Go-2980b9?style=for-the-badge&labelColor=black&logo=go&logoColor=2980b9)](#)
 
-### Y 10 mas!!!
+<h2>!Y 10 mas!</h2>
 
 <br />
 <br />
