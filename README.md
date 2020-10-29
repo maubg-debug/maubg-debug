@@ -72,16 +72,15 @@ Python                       █████████████████
 ```python
 
 class Maubg():
-  def __init__(self, nombre, g):
+  def __init__(self, nombre, g="https://github.com/maubg-debug"):
     self.nombre = nombre
     self.github = g
 
-  def maubg(self, nombre):
+  def presentacion(self):
     print(f"Hola mundo, soy {self.nombre}")
 
 def main():
-  m = Maubg()
-  m.maubg("Maubg")
+  Maubg("Maubg").presentacion()
 
 if __name__ == "__main__":
   main()
