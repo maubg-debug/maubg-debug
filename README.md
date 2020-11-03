@@ -22,7 +22,7 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 </p>
 
 - 🔭 Actualmente estoy trabajando en **Maubg** (Un [robot](https://github.com/maubg-debug/maubot) de discord profesional).
-- :computer: Línea de código más utilizada `git commit -m "Initial Commit "`
+- :computer: Línea de código más utilizada `git commit -m "UN COMIT MAS"`
 - 📫 Como contactar conmigo: maubg2007@gmail.com.
 - ⚡ Dato curioso: juego y toco la bateria amenudo.
 
