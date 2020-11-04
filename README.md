@@ -67,7 +67,7 @@ Python                       █████████████████
 
 </details>
 
-<h2>
+<code>
 
 ```python
 
@@ -85,7 +85,7 @@ def main():
 if __name__ == "__main__":
   main()
 ```
-</h2>
+</code>
 
 Mira la web de **Maubot** 🌎:
 
