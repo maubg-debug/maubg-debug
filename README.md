@@ -67,8 +67,7 @@ Python                       █████████████████
 
 </details>
 
-<code>
-
+<h2>
 ```python
 
 class Maubg():
@@ -85,7 +84,7 @@ def main():
 if __name__ == "__main__":
   main()
 ```
-</code>
+</h2>
 
 Mira la web de **Maubot** 🌎:
 
