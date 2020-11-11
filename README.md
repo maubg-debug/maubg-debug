@@ -27,9 +27,9 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 
 <p align="left"> <a href="https://twitter.com/maubg6" target="blank"><img src="https://img.shields.io/twitter/follow/maubg6?logo=twitter&style=for-the-badge" alt="maubg6" /></a> </p>
 
-- 🔭 Estoy trabajando en muchos proyectos como Maubot y language [Maubot](http://maubot.mooo.com)
+- 🔭 Estoy trabajando en muchos proyectos como Maubot y language | [Maubot](http://maubot.mooo.com)
 
-- 👯 Estoy colaborando al idioma de programación de PHP [PHP](https://github.com/php/php-src)
+- 👯 Estoy colaborando al idioma de programación de [PHP](https://github.com/php/php-src)
 
 - 👨‍💻 Casi todos mis proyectos [https://github.com/maubg-debug?tab=repositories](https://github.com/maubg-debug?tab=repositories)
 
@@ -37,7 +37,7 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 
 - ⚡ Dato divertido **Los arboles son grises**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contactame:</h3>
 <p align="left">
 <a href="https://dev.to/maubg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="maubg" height="30" width="40" /></a>
 <a href="https://twitter.com/maubg6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maubg6" height="30" width="40" /></a>
