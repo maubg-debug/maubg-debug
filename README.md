@@ -82,8 +82,9 @@ Python                       █████████████████
 
 #### Github Stats
 
-![Stats de github](https://github-readme-stats.vercel.app/api?username=maubg-debug&count_private=true&theme=light&hide=contribs,prs)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maubg-debug&show_icons=true&locale=en&layout=compact" alt="maubg-debug" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maubg-debug&show_icons=true&locale=en" alt="maubg-debug" /></p>
 </details>
 
 <h2>
