@@ -22,9 +22,9 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
     <img alt="maubg Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
   </a>
 </p>
-
+---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maubg-debug" alt="maubg-debug" /></a> </p>
-
+---
 <p align="left"> <a href="https://twitter.com/maubg6" target="blank"><img src="https://img.shields.io/twitter/follow/maubg6?logo=twitter&style=for-the-badge" alt="maubg6" /></a> </p>
 
 - 🔭 Estoy trabajando en muchos proyectos como Maubot y language | [Maubot](http://maubot.mooo.com)
