@@ -25,10 +25,6 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maubg-debug" alt="maubg-debug" /></a> </p>
-
----
-
 <p align="left"> <a href="https://twitter.com/maubg6" target="blank"><img src="https://img.shields.io/twitter/follow/maubg6?logo=twitter&style=for-the-badge" alt="maubg6" /></a> </p>
 
 - 🔭 Estoy trabajando en muchos proyectos como Maubot y language | [Maubot](http://maubot.mooo.com)
