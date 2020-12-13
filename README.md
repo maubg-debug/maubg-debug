@@ -27,7 +27,7 @@ Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alg
 
 <p align="left"> <a href="https://twitter.com/maubg6" target="blank"><img src="https://img.shields.io/twitter/follow/maubg6?logo=twitter&style=for-the-badge" alt="maubg6" /></a> </p>
 
-- 🔭 Estoy trabajando en muchos proyectos como Maubot y language | [Maubot](http://maubot.mooo.com)
+- 🔭 Estoy trabajando en muchos proyectos como Maubot y language | [Maubot](http://maubot.maucode.com)
 
 - 👯 Estoy colaborando al idioma de programación de [PHP](https://github.com/php/php-src)
 
