@@ -2,9 +2,10 @@
 
   ```c++
   #include <iostream>
-  
-  int main() { 
-      cout << "Hola, Soy un estudiante programador (Sobredotodo de python)"; 
+
+  int main() {
+      std::cout << "¡Hola mundo!" << std::endl;
+      return 0;
   }
   ```
 
