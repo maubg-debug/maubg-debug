@@ -1,6 +1,8 @@
 ## Hola, soy maubg<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alguien que trabajara en algo importante como Google
+```g++
+int main() { cout << "Hola, Soy un estudiante programador (Sobredotodo de python) que aspira a ser alguien que trabajara en algo importante como Google"; }
+```
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maubg-debug&label=Profile%20views&color=0e75b6&style=flat" alt="maubg-debug" /> </p>
 
