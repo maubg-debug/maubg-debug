@@ -160,18 +160,18 @@ Python                       █████████████████
   
 ```python
 
-class Maubg():
-  def __init__(self, nombre, g="https://github.com/maubg-debug"):
+class Introduccion:
+  def __init__(self, nombre: str, github_usrn: str = "maubg-debug"):
     self.nombre = nombre
-    self.github = g
-
-  def presentacion(self):
-    print(f"Hola mundo, soy {self.nombre}")
-
-def main():
-  Maubg("Maubg").presentacion()
-
-if __name__ == "__main__":
-  main()
+    self.nombre_github = github_usrn
+    
+  @property
+  def presetacion(self):
+    """ Retorna la presentacion con tu nombre """
+    return f"Ho mundo, mi nombre es {self.nombre}"
+    
+print(
+  Introduccion("Maubg").presetacion
+)
 ```
 </h2>
